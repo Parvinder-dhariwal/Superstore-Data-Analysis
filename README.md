@@ -67,8 +67,15 @@ Retail-Business-Intelligence/
 │   └── 02_eda.py
 │
 ├── Powerbi/
+│   └── Superstore_Analysis.pbix
+│
 ├── Screenshot/
+│   ├── Page_01 Sales and Profit Analysis.png
+│   ├── Page_02 Customer and Product Analysis.png
+│   └── Page_03 Discount and Return Analysis.png
+│
 ├── Sql/
+│
 └── README.md
 
 ## Python Analysis 
