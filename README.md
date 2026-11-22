@@ -74,8 +74,6 @@ Retail-Business-Intelligence/
 │   ├── Page_02 Customer and Product Analysis.png
 │   └── Page_03 Discount and Return Analysis.png
 │
-├── Sql/
-│
 └── README.md
 
 ## Python Analysis 
